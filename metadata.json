@@ -1,0 +1,6 @@
+{
+  "name": "Bangalore Traffic AI Command Center",
+  "description": "An autonomous AI-powered urban crisis Command Center matching traffic sensors, signal overrides, emergency dispatch and tweets via the ReAct framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
